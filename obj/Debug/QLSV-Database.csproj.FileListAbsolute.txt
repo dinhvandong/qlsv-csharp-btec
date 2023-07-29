@@ -1,0 +1,14 @@
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\bin\Debug\QLSV-Database.exe.config
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\bin\Debug\QLSV-Database.exe
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\bin\Debug\QLSV-Database.pdb
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV-Database.csproj.AssemblyReference.cache
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV-Database.csproj.SuggestedBindingRedirects.cache
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV_Database.Form1.resources
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV_Database.Properties.Resources.resources
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV-Database.csproj.GenerateResource.cache
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV-Database.csproj.CoreCompileInputs.cache
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV-Database.exe
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV-Database.pdb
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV_Database.InputStudentForm.resources
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV_Database.InputDepartmentForm.resources
+C:\FPT\BTEC\SUMMER-2023\PBIT17103 - Application Development\Code First\QLSV-Database\obj\Debug\QLSV_Database.DepartmentListForm.resources
